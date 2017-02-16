@@ -1,0 +1,13 @@
+*.jpeg
+auth.py 
+*._auth.py 
+*.__pycache__
+__pycache
+reference
+gedit
+.DS_store
+ __pycache__/._auth.cpython-34.pyc
+ __pycache__/auth.cpython-34.pyc
+._.DS_Store
+.___pycache__
+ lifeOfPi
